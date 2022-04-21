@@ -1,4 +1,5 @@
-# c_testrepo
+## Task 2: Development
 
-## Editing the file
-### This is a markdown file.
+### Development OS: Windows
+### Target OS: Android 
+
